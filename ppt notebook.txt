@@ -1,0 +1,32 @@
+columns=Internet Service(main),Internet Type,Avg Monthly GB Download,Online Security,Online Backup,Device Protection Plan,Premium Tech Support,Streaming TV,Streaming Movies,Streaming Music,Unlimited Data
+
+
+columns=avg distance=0 means multiple lines = no
+ Stayed=5174
+churned=1869
+
+The dataset contains 7,043 customer records with 38 columns, including demographic information, service details, and churn status.
+
+Churn Rate: 26.54% of customers have churned.
+
+The data is about telecom customers, including their demographics, service usage, billing information, and churn status. This data can be used to analyze customer behavior, identify factors contributing to churn, and develop strategies to retain customers.
+
+51% married, city=Los Angeles, san diego, offer B highest(11%),phone service yes(90%),multiple lines No(57%),78% having internet service,optical fibre highest(43%),online security no(71%),online backup No(65%),Device protection plan No(65%),Premium tech support no(70%),Streaming tv No(61%),streaming movies No(61%),Streaming music No (64%),
+unlimited Data Yes(67%),contract month to month(51%),Paperless billing Yes(59%),Payment Method Bank Withdrawl 55%,Agegroup Adult(29%)
+
+Age Distribution: The data shows a wide range of customer ages, with a slight peak in the middle-age adult group.
+Gender Distribution: The data is roughly evenly distributed between genders.
+Age and Monthly Charge: There is a weak positive correlation between age and monthly charge, suggesting that older customers tend to have slightly higher monthly charges.
+Contract Types: Month-to-month contracts are the most common, followed by one-year contracts and two-year contracts.
+Internet Service and Monthly Charge: Customers with fiber optic internet service tend to have the highest monthly charges, followed by cable and DSL.
+Correlation Matrix: The correlation matrix reveals relationships between various variables. For example, there is a strong positive correlation between monthly charge and total charges, indicating that customers with higher monthly charges also have higher total charges.
+
+
+
+city,Zipcode,Longitude,Latitude
+
+
+Month to month
+offer
+Age
+Refund
